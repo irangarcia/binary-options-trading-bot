@@ -1,16 +1,16 @@
 <h1 align="center"> 
 🤖 LogroBot</h1>
 
-## 📃 About
+## About
 
 Bot to automatize calls and puts on binary options at IQ Option platform
 
-## 💻 Technologies
+## Technologies
 
 - Python
 - PyQt5 (GUI)
 
-## 🎨 Layout
+## Layout
 
 ![Access area](img/key-area.png)
 
